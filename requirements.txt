@@ -1,0 +1,6 @@
+langchain==0.0.253
+python-dotenv==1.0.0
+streamlit==1.25.0
+tiktoken
+openai
+faiss-cpu
